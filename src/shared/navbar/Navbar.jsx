@@ -99,7 +99,7 @@ const Navbar = ({ children }) => {
               <div className="flex gap-20">
                <div className="flex  items-center gap-7">
                <div className="  w-16"> <img src={logo}  alt="" /></div>
-              <div className="  text-2xl font-bold ">FourPows</div>
+              <div className="  text-2xl font-bold ">RescurLink</div>
                </div>
               <div className="flex-none hidden lg:block">
                 <ul className="flex gap-7">
